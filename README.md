@@ -42,3 +42,5 @@ o	Chicken: 11,050
 6. Highest Priced Pizza
 •	Question: Identify the highest-priced pizza.
 •	Insight: The highest-priced pizza is The Greek Pizza at $35.95.
+This project demonstrates proficiency in joining multiple tables and using aggregate functions to extract meaningful metrics from a transactional dataset.
+The insights derived here are crucial for inventory management, marketing strategy, and menu pricing optimizations in a real-world pizza business scenario.
