@@ -1,12 +1,12 @@
-Pizza Sales Analysis: SQL Data Project
-This repository documents an end-to-end data analysis project focused on understanding and optimizing pizza sales using SQL (Structured Query Language). The goal of this project was to leverage raw sales data to answer key business questions, identify popular products, analyze revenue performance, and provide actionable insights.
-🎯 Project Goal -
+# Pizza Sales Analysis: SQL Data Project
+
+## Project Goal 
 To analyze pizza sales data by applying SQL queries to calculate key performance indicators (KPIs), identify sales trends, and determine the distribution of orders and top-performing pizzas.
-🛠️ Technology Stack -
+## Technology Stack 
 •	Database Language: SQL
 •	Database Management System: MySQL
 •	Tools: MySQL Workbench.
-🔑 Key Business Questions & Insights
+## Key Business Questions & Insights
 The analysis focused on answering several critical business questions. Below are the question, the resulting insight, and the associated SQL output (where provided).
 1. Total Revenue
 •	Question: Calculate the total revenue generated from pizza sales.
@@ -42,5 +42,7 @@ o	Chicken: 11,050
 6. Highest Priced Pizza
 •	Question: Identify the highest-priced pizza.
 •	Insight: The highest-priced pizza is The Greek Pizza at $35.95.
+
+## Key Insights
 This project demonstrates proficiency in joining multiple tables and using aggregate functions to extract meaningful metrics from a transactional dataset.
 The insights derived here are crucial for inventory management, marketing strategy, and menu pricing optimizations in a real-world pizza business scenario.
